@@ -15,7 +15,7 @@
                         "header": [],
                         "body": {
                             "mode": "raw",
-                            "raw": "{\n    \"email\": \"farhan@possbuzz.com\",\n    \"password\": \"farhan2026\",\n    \"name\": \"Test User\"\n}",
+                            "raw": "{\n    \"email\": \"farhan@possbuzz.com\",\n    \"password\": \"farhan2026\",\n    \"name\": \"Farhan Shahriyar\"\n}",
                             "options": {
                                 "raw": {
                                     "language": "json"
